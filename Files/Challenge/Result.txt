@@ -1,0 +1,5 @@
+RESULTS
+FILE TYPE - TOTAL COUNT - TOTAL SIZE(KB)
+  Word    -      5    -     1168    
+  Excel    -      4    -     72    
+  PPT    -      3    -     1370    

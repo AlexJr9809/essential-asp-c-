@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\LECTURE NOTES\300 LEVEL\300 LEVEL SECOND SEMESTER\COM 313\Start\Regex\Finding\bin\Debug\net6.0\Finding.exe
+C:\Users\USER\Desktop\LECTURE NOTES\300 LEVEL\300 LEVEL SECOND SEMESTER\COM 313\Start\Regex\Finding\bin\Debug\net6.0\Finding.deps.json
+C:\Users\USER\Desktop\LECTURE NOTES\300 LEVEL\300 LEVEL SECOND SEMESTER\COM 313\Start\Regex\Finding\bin\Debug\net6.0\Finding.runtimeconfig.json
+C:\Users\USER\Desktop\LECTURE NOTES\300 LEVEL\300 LEVEL SECOND SEMESTER\COM 313\Start\Regex\Finding\bin\Debug\net6.0\Finding.dll
+C:\Users\USER\Desktop\LECTURE NOTES\300 LEVEL\300 LEVEL SECOND SEMESTER\COM 313\Start\Regex\Finding\bin\Debug\net6.0\Finding.pdb
+C:\Users\USER\Desktop\LECTURE NOTES\300 LEVEL\300 LEVEL SECOND SEMESTER\COM 313\Start\Regex\Finding\obj\Debug\net6.0\Finding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\LECTURE NOTES\300 LEVEL\300 LEVEL SECOND SEMESTER\COM 313\Start\Regex\Finding\obj\Debug\net6.0\Finding.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\LECTURE NOTES\300 LEVEL\300 LEVEL SECOND SEMESTER\COM 313\Start\Regex\Finding\obj\Debug\net6.0\Finding.AssemblyInfo.cs
+C:\Users\USER\Desktop\LECTURE NOTES\300 LEVEL\300 LEVEL SECOND SEMESTER\COM 313\Start\Regex\Finding\obj\Debug\net6.0\Finding.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\LECTURE NOTES\300 LEVEL\300 LEVEL SECOND SEMESTER\COM 313\Start\Regex\Finding\obj\Debug\net6.0\Finding.dll
+C:\Users\USER\Desktop\LECTURE NOTES\300 LEVEL\300 LEVEL SECOND SEMESTER\COM 313\Start\Regex\Finding\obj\Debug\net6.0\refint\Finding.dll
+C:\Users\USER\Desktop\LECTURE NOTES\300 LEVEL\300 LEVEL SECOND SEMESTER\COM 313\Start\Regex\Finding\obj\Debug\net6.0\Finding.pdb
+C:\Users\USER\Desktop\LECTURE NOTES\300 LEVEL\300 LEVEL SECOND SEMESTER\COM 313\Start\Regex\Finding\obj\Debug\net6.0\Finding.genruntimeconfig.cache
+C:\Users\USER\Desktop\LECTURE NOTES\300 LEVEL\300 LEVEL SECOND SEMESTER\COM 313\Start\Regex\Finding\obj\Debug\net6.0\ref\Finding.dll
